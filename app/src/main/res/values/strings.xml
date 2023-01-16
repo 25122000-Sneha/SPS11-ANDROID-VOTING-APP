@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test_Application1_1</string>
+    <string name="hellomessage" translatable="false">Welcome to the Voting App</string>
+</resources>
